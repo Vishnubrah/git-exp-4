@@ -44,3 +44,10 @@ print(a)
 #print(all(a))
 #print(any(a))
 # print(b[0][2])
+
+
+
+
+list is a mutable data type 
+list has index values and it is a ordered list
+list is a heterogeneous datatype
